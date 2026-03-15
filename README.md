@@ -16,3 +16,4 @@ UBS event game with DMC
  * Power Supply Connections:
  *   - 5V+ → Sensor VCC, Relay Modules VCC
  *   - GND → Sensor GND, Relay Modules GND, Arduino GND
+![Project Screenshot](images/ubs.png)
